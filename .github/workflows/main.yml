@@ -20,4 +20,4 @@ jobs:
             # installs public and private moduless.
             npm install
             # public to NPM
-            npm publish
+            npm publish --access public
