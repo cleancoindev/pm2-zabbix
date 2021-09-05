@@ -1,0 +1,12 @@
+.env
+*.idea
+test
+docs
+coverage
+scripts
+test
+abi
+.gitignore
+.editorconfig
+.npmignore
+.DS_Store
